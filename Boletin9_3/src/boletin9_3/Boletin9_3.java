@@ -10,8 +10,8 @@ public class Boletin9_3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Rectangulo perita = new Rectangulo();
-        System.out.println(perita.calcularArea());
+        Rectangulo rojo = new Rectangulo();
+        System.out.println(rojo.calcularArea());
     }
     
 }
